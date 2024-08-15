@@ -113,4 +113,4 @@ def kuwahara_decryption(original_image, enc_image, window_size=5):
 
 ````
 
-haar maan gaya sher
+I GAVE UP.
